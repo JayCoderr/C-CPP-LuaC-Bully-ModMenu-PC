@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Computer\source\repos\bully_luac_test\bully_luac_test\dllmain.cpp(59,23): warning C4244: 'argument': conversion from 'int' to 'lua_Number', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+  bully_luac_test.vcxproj -> C:\Users\Computer\source\repos\bully_luac_test\Debug\bully_luac_test.dll
